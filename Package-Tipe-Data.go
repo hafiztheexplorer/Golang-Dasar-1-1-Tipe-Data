@@ -1,10 +1,10 @@
 package Packagetipedata
 
 func Tipedata() (int, string, float64, bool) {
-	contohinteger := 12
-	contohstring := "apa saja boleh"
-	contohfloat64 := 1.22668
-	ontohbool := false
+	Contohinteger := 12
+	Contohstring := "apa saja boleh"
+	Contohfloat64 := 1.22668
+	var Contohbool bool = false
 
-	return contohinteger, contohstring, contohfloat64, contohbool
+	return Contohinteger, Contohstring, Contohfloat64, Contohbool
 }
