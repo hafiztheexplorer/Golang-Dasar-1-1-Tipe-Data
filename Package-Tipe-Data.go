@@ -1,5 +1,5 @@
 package Packagetipedata
 
-func Tipedata()  string{
+func Tipedata() string{
 	return "halo"
 }
